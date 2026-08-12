@@ -1,0 +1,9 @@
+{
+  "name": "premium-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "npx serve .",
+    "dev": "npx live-server ."
+  }
+}
